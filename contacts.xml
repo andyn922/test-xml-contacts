@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <contacts refresh="0">
     <contact name="FISH - Davey Derpface" number="+447869 500 497" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="1" info=""/>
-    <contact name="FISH - Betty Fish" number="+447869 550 497" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
+    <contact name="FISH - Betty Fish" number="+447869 550 497" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="1" info=""/>
+    <contact name="Another User" number="+447869 670 632" firstname="Another" lastname="User" phone="" mobile="" email="" address="" city="" state="" zip="" comment="Blah" presence="0" info=""/>
 </contacts>
